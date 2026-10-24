@@ -1,0 +1,38 @@
+Отчёт о построении топологии (2026-09-29 22:33), источник: C:\Users\ASUS\Desktop\elktro\Energi_0000_Norge_25833_Nettanlegg_FGDB\Energi_0000_Norge_25833_Nettanlegg_FGDB.gdb
+  BBOX = None
+  параметр SNAP_TOL = 10.0
+  параметр TJUNC_TOL = 10.0
+  параметр STATION_GROUP = 80.0
+  параметр STATION_RADIUS = 100.0
+  параметр MAST_TOL = 25.0
+  параметр MIN_LEN = 0.01
+  параметр PARALLEL_COS = 0.94
+  параметр EXT_VOLT = 110.0
+  параметр AUTO_FEED_RADIUS = 1500.0
+  source_lines: 154506
+  multipart_exploded: 475
+  short_removed: 86
+  duplicates_removed: 554
+  dup_vertices_removed: 0
+  endpoints_snapped: 48911
+  nodes_after_snap: 158955
+  t_junctions: 492
+  short_edges_collapsed: 5845
+  stations: 1595
+  bus_edges: 2835
+  stations_isolated: 280
+  components_initial: 10054
+  components_with_source_initial: 521
+  virtual_feeds: 2042
+  components: 8012
+  components_with_source: 521
+  edges: 154722
+  line_edges: 149845
+  nodes: 159543
+  node_types: {'STATION': 1595, 'EXTERNAL': 390, 'BRANCH': 28501, 'PASS': 82671, 'END': 46386}
+  len_km: 97524.61615048589
+  len_fed_km: 75154.91216616711
+  masts: 734293
+  masts_bound: 718210
+  build_sec: 194.3683559000492
+  total_sec (с чтением и записью): 492.2

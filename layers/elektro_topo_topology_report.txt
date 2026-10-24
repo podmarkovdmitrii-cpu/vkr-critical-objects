@@ -1,0 +1,36 @@
+Отчёт о построении топологии (2026-09-29 21:03)
+  параметр SNAP_TOL = 10.0
+  параметр TJUNC_TOL = 10.0
+  параметр STATION_GROUP = 80.0
+  параметр STATION_RADIUS = 100.0
+  параметр MAST_TOL = 25.0
+  параметр MIN_LEN = 0.01
+  параметр PARALLEL_COS = 0.94
+  параметр EXT_VOLT = 110.0
+  параметр AUTO_FEED_RADIUS = 1500.0
+  source_lines: 1804
+  multipart_exploded: 4
+  short_removed: 9
+  duplicates_removed: 6
+  dup_vertices_removed: 1
+  endpoints_snapped: 497
+  nodes_after_snap: 1869
+  t_junctions: 9
+  short_edges_collapsed: 61
+  stations: 19
+  bus_edges: 23
+  stations_isolated: 2
+  components_initial: 146
+  components_with_source_initial: 10
+  virtual_feeds: 27
+  components: 119
+  components_with_source: 10
+  edges: 1793
+  line_edges: 1743
+  nodes: 1870
+  node_types: {'STATION': 19, 'EXTERNAL': 18, 'BRANCH': 373, 'PASS': 841, 'END': 619}
+  len_km: 1112.663452333391
+  len_fed_km: 865.3155864368558
+  masts: 6394
+  masts_bound: 5939
+  build_sec: 3.3876241999678314
